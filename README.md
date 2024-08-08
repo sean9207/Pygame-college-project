@@ -3,3 +3,6 @@
 <h2>Game window</h2>
 
 ![alt text](https://github.com/sean9207/Pygame-college-project/blob/main/Screenshot%202024-08-08%20213127.png)
+
+
+![alt text](https://github.com/sean9207/Pygame-college-project/blob/main/Screenshot%202024-08-08%20213228.png)
